@@ -7,4 +7,4 @@ If the program is helpful to you, you are welcome to cite the paper.
 
 If you have any doubts. Welcome to contact me: 954007646@qq.com
 
-I've been really busy lately, I'll be maintaining the codebase all the time, welcome to communicate.
+I've been really busy lately, but I'll be maintaining the codebase, communication is welcome.
